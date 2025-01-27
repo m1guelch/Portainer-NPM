@@ -1,2 +1,2 @@
 # Portainer-NPM
-Stack con Docker compose que levanta Portainer y NPM
+Stack that deploys Portainer and Nginx Proxy Manager containers using Docker compose
