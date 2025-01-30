@@ -1,2 +1,2 @@
 # Portainer-NPM
-Stack that deploys Portainer and Nginx Proxy Manager containers using Docker compose
+Stack that deploys both Portainer and Nginx Proxy Manager containers using Docker compose.
